@@ -1,7 +1,6 @@
 # t3rn
 t3rn binary running
 
-
 - 下载最新binary程序：
     
     ```bash
