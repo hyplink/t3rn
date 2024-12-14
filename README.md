@@ -4,7 +4,7 @@ t3rn binary running
 - 下载最新binary程序：
     
     ```bash
-    wget https://github.com/t3rn/executor-release/releases/download/v0.26.0/executor-linux-v0.26.0.tar.gz
+    wget https://github.com/t3rn/executor-release/releases/download/v0.26.0/executor-linux-v0.27.0.tar.gz
     ```
     
     输入 `ls` 查看文件夹内文件
@@ -12,7 +12,7 @@ t3rn binary running
 - 解压该程序:
     
     ```bash
-    tar -xzf executor-linux-v0.26.0.tar.gz
+    tar -xzf executor-linux-v0.27.0.tar.gz
     ```
     
 - 查看文件夹后
