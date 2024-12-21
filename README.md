@@ -30,4 +30,3 @@ t3rn binary running
     ```
 
 
-
